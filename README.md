@@ -1,4 +1,4 @@
-## Various NLP Projects
+## NLP Projects
 
 ### 1. Text, file and pdf manipulation using python
 ### 2. Text formatting using NLP - python
